@@ -1,8 +1,24 @@
 # leetcode-plus
-My leetcode-plus project
 
-## Support
+A project to enhance your leetcode experience with additional features.
 
-If you encounter any issues or have questions, please [open an issue](../../issues).
+## Features
+- Track your leetcode progress
+- Browse problems by difficulty and topic
+- Generate custom study plans
 
-For general discussions, feel free to start a discussion in the [Discussions](../../discussions) tab.
+## Tech Stack
+- Python for the backend
+- Flask for the API
+- SQLite for data storage
+
+## Usage
+1. Clone the repository: `git clone https://github.com/yourusername/leetcode-plus.git`
+2. Navigate to the project directory: `cd leetcode-plus`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run the application: `python app.py`
+
+## Future Plans
+- Add user authentication
+- Implement a recommendation system for problems
+- Create a mobile-friendly web interface.
